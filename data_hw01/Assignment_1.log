@@ -1,0 +1,421 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.11)  21 SEP 2020 23:42
+entering extended mode
+**./Assignment_1.tex
+(Assignment_1.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count179
+\multirow@dima=\skip50
+\bigstrutjot=\dimen143
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen144
+\lightrulewidth=\dimen145
+\cmidrulewidth=\dimen146
+\belowrulesep=\dimen147
+\belowbottomsep=\dimen148
+\aboverulesep=\dimen149
+\abovetopsep=\dimen150
+\cmidrulesep=\dimen151
+\cmidrulekern=\dimen152
+\defaultaddspace=\dimen153
+\@cmidla=\count180
+\@cmidlb=\count181
+\@aboverulesep=\dimen154
+\@belowrulesep=\dimen155
+\@thisruleclass=\count182
+\@lastruleclass=\count183
+\@thisrulewidth=\dimen156
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/08/26 v1.2 Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count184
+\float@exts=\toks19
+\float@box=\box45
+\@float@everytoks=\toks20
+\@floatcapt=\box46
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen159
+\ar@mcellbox=\box47
+\extrarowheight=\dimen160
+\NC@list=\toks21
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box48
+)
+\everycr=\toks22
+\minrowclearance=\skip62
+)
+\rownum=\count185
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-01 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count186
+\l__pdf_internal_box=\box49
+) (Assignment_1.aux)
+\openout1 = `Assignment_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count187
+\scratchdimen=\dimen161
+\scratchbox=\box50
+\nofMPsegments=\count188
+\nofMParguments=\count189
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count190
+\MPscratchDim=\dimen162
+\MPnumerator=\count191
+\makeMPintoPDFobject=\count192
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\geo30\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+
+Overfull \hbox (0.3841pt too wide) in paragraph at lines 21--27
+[][]  
+ []
+
+<Temperature Histogram from 5 sensors with 5 bins.png, id=1, 462.528pt x 346.89
+6pt>
+File: Temperature Histogram from 5 sensors with 5 bins.png Graphic file (type p
+ng)
+<use Temperature Histogram from 5 sensors with 5 bins.png>
+Package pdftex.def Info: Temperature Histogram from 5 sensors with 5 bins.png  
+used on input line 43.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<Temperature Histogram from 5 sensors with 50 bins.png, id=3, 462.528pt x 346.8
+96pt>
+File: Temperature Histogram from 5 sensors with 50 bins.png Graphic file (type 
+png)
+<use Temperature Histogram from 5 sensors with 50 bins.png>
+Package pdftex.def Info: Temperature Histogram from 5 sensors with 50 bins.png 
+ used on input line 48.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+[1
+
+{C:/Users/geo30/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Temperature H
+istogram from 5 sensors with 5 bins.png>]
+<Frequency Poligons of 5 Sensors.png, id=13, 462.528pt x 346.896pt>
+File: Frequency Poligons of 5 Sensors.png Graphic file (type png)
+<use Frequency Poligons of 5 Sensors.png>
+Package pdftex.def Info: Frequency Poligons of 5 Sensors.png  used on input lin
+e 55.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<Temperature Boxplot.png, id=14, 462.528pt x 346.896pt>
+File: Temperature Boxplot.png Graphic file (type png)
+<use Temperature Boxplot.png>
+Package pdftex.def Info: Temperature Boxplot.png  used on input line 62.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<Wind Speed Boxplot.png, id=15, 462.528pt x 346.896pt>
+File: Wind Speed Boxplot.png Graphic file (type png)
+<use Wind Speed Boxplot.png>
+Package pdftex.def Info: Wind Speed Boxplot.png  used on input line 67.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [2 <./Temperature Histogram from 5 sensors with 50 bins.png> <./Frequency Poli
+gons of 5 Sensors.png>]
+<Wind Direction Boxplot.png, id=22, 462.528pt x 346.896pt>
+File: Wind Direction Boxplot.png Graphic file (type png)
+<use Wind Direction Boxplot.png>
+Package pdftex.def Info: Wind Direction Boxplot.png  used on input line 72.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [3 <./Temperature Boxplot.png> <./Wind Speed Boxplot.png>]
+<PMF for Temperature.png, id=28, 462.528pt x 346.896pt>
+File: PMF for Temperature.png Graphic file (type png)
+<use PMF for Temperature.png>
+Package pdftex.def Info: PMF for Temperature.png  used on input line 81.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<PDF for Temperature.png, id=29, 462.528pt x 346.896pt>
+File: PDF for Temperature.png Graphic file (type png)
+<use PDF for Temperature.png>
+Package pdftex.def Info: PDF for Temperature.png  used on input line 86.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<CDF for Temperature.png, id=30, 462.528pt x 346.896pt>
+File: CDF for Temperature.png Graphic file (type png)
+<use CDF for Temperature.png>
+Package pdftex.def Info: CDF for Temperature.png  used on input line 91.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [4 <./Wind Direction Boxplot.png> <./PMF for Temperature.png>]
+<PDF for Wind Speed (Sensor A).png, id=36, 462.528pt x 346.896pt>
+File: PDF for Wind Speed (Sensor A).png Graphic file (type png)
+<use PDF for Wind Speed (Sensor A).png>
+Package pdftex.def Info: PDF for Wind Speed (Sensor A).png  used on input line 
+99.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<PDF for Wind Speed (Sensor B).png, id=37, 462.528pt x 346.896pt>
+File: PDF for Wind Speed (Sensor B).png Graphic file (type png)
+<use PDF for Wind Speed (Sensor B).png>
+Package pdftex.def Info: PDF for Wind Speed (Sensor B).png  used on input line 
+104.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [5 <./PDF for Temperature.png> <./CDF for Temperature.png>]
+<PDF for Wind Speed (Sensor C).png, id=43, 462.528pt x 346.896pt>
+File: PDF for Wind Speed (Sensor C).png Graphic file (type png)
+<use PDF for Wind Speed (Sensor C).png>
+Package pdftex.def Info: PDF for Wind Speed (Sensor C).png  used on input line 
+109.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<PDF for Wind Speed (Sensor D).png, id=44, 462.528pt x 346.896pt>
+File: PDF for Wind Speed (Sensor D).png Graphic file (type png)
+<use PDF for Wind Speed (Sensor D).png>
+Package pdftex.def Info: PDF for Wind Speed (Sensor D).png  used on input line 
+114.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [6 <./PDF for Wind Speed (Sensor A).png> <./PDF for Wind Speed (Sensor B).png>
+]
+<PDF for Wind Speed (Sensor E).png, id=50, 462.528pt x 346.896pt>
+File: PDF for Wind Speed (Sensor E).png Graphic file (type png)
+<use PDF for Wind Speed (Sensor E).png>
+Package pdftex.def Info: PDF for Wind Speed (Sensor E).png  used on input line 
+119.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [7 <./PDF for Wind Speed (Sensor C).png> <./PDF for Wind Speed (Sensor D).png>
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 124.
+
+<Temperature Correlations with P and Sp coeff.png, id=57, 462.528pt x 346.896pt
+>
+File: Temperature Correlations with P and Sp coeff.png Graphic file (type png)
+<use Temperature Correlations with P and Sp coeff.png>
+Package pdftex.def Info: Temperature Correlations with P and Sp coeff.png  used
+ on input line 164.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<Crosswind Correlations with P and Sp coeff.png, id=58, 462.528pt x 346.896pt>
+File: Crosswind Correlations with P and Sp coeff.png Graphic file (type png)
+<use Crosswind Correlations with P and Sp coeff.png>
+Package pdftex.def Info: Crosswind Correlations with P and Sp coeff.png  used o
+n input line 169.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<WBGT Correlations with P and Sp coeff.png, id=59, 462.528pt x 346.896pt>
+File: WBGT Correlations with P and Sp coeff.png Graphic file (type png)
+<use WBGT Correlations with P and Sp coeff.png>
+Package pdftex.def Info: WBGT Correlations with P and Sp coeff.png  used on inp
+ut line 174.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+[8 <./PDF for Wind Speed (Sensor E).png> <./Temperature Correlations with P and
+ Sp coeff.png>] [9]
+<Sensors Location.png, id=68, 1027.84pt x 770.88pt>
+File: Sensors Location.png Graphic file (type png)
+<use Sensors Location.png>
+Package pdftex.def Info: Sensors Location.png  used on input line 183.
+(pdftex.def)             Requested size: 409.71692pt x 307.2879pt.
+ [10 <./Crosswind Correlations with P and Sp coeff.png> <./WBGT Correlations wi
+th P and Sp coeff.png>]
+File: CDF for Temperature.png Graphic file (type png)
+<use CDF for Temperature.png>
+Package pdftex.def Info: CDF for Temperature.png  used on input line 190.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+<CDF for Wind Speed.png, id=74, 462.528pt x 346.896pt>
+File: CDF for Wind Speed.png Graphic file (type png)
+<use CDF for Wind Speed.png>
+Package pdftex.def Info: CDF for Wind Speed.png  used on input line 195.
+(pdftex.def)             Requested size: 318.66948pt x 239.01443pt.
+ [11 <./Sensors Location.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 200.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 219.
+
+[12 <./CDF for Wind Speed.png>] (Assignment_1.bbl) [13] (Assignment_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 2944 strings out of 481199
+ 43114 string characters out of 2905595
+ 295666 words of memory out of 3000000
+ 18507 multiletter control sequences out of 15000+200000
+ 543215 words of font info for 45 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,12n,45p,370b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C
+:\Users\geo30\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
+pk> <C:\Users\geo30\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x1200.pk> <C:\Users\geo30\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\ecbx1728.pk> <C:\Users\geo30\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm1200.pk> <C:\Users\geo30\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1440.pk>
+Output written on Assignment_1.pdf (13 pages, 1560922 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
